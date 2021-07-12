@@ -8,7 +8,6 @@ dt {
 
 * {
     background-image: url("img/map-bg.jpg");
-    
 }
 
 body {
@@ -31,8 +30,6 @@ h2 {
     font-weight: bolder;
 }    
 
-
-
 #main {
     width: 900px; 
     margin: 10px auto;}
@@ -46,21 +43,18 @@ h2 {
 
 section {margin-bottom: 50px;}
 
-
-
 dd {margin: 0 0 12px 0; display: flex;}
 
 .details {order: 1;}
-
 
 .price {
     order: 2; 
     margin-left: auto;
     font-size: large;
     color: firebrick
-    
 }
 
 address {
     border: 2px dashed rosybrown;
-    padding: 10px;}
+    padding: 10px;
+}
